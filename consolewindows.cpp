@@ -13,7 +13,7 @@ ConsoleWindows::ConsoleWindows(QWidget *parent) :
     m_compteur = 0;
 
     //serveur LMS
-    m_LMS = new CLMS_DB();
+    m_LMS = new CLMS_DB("0.0.0.1");
 
     //création de la base de donnée
     m_BD = new CSQLite_Local_DB(m_LMS);
