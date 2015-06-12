@@ -2,11 +2,11 @@
 
 ## The application Locker Control (LC), is an automatic boxes manager on Qt in c++.
 
-See the documentation of Locker Control here (in french only): http://bts2-projet-1.github.io/html/md__s_1__q_t__c_r_e_a_t_o_r__locker__control__r_e_a_d_m_e.html
+See the documentation of Locker Control here (in french only): http://bts2-projet-1.github.io/html/
 
 Tutorial : Documentation editor, http://franckh.developpez.com/tutoriels/outils/doxygen/
 
-###Uses cases status : [![Build Status](https://travis-ci.org/BTS2-Projet-1/Locker_Control.svg?branch=master)](https://travis-ci.org/BTS2-Projet-1/Locker_Control)
+###Uses cases status :
 
   - System settings configuration :           * WORK IN PROGRESS
   - Site configuration :                      - NOT STARTED
