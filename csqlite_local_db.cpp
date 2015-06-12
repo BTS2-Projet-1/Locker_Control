@@ -282,7 +282,7 @@ bool CSQLite_Local_DB::Connect_DB()
                 qDebug()<< "============================================================================";
                 qDebug()<< "||                                                                        ||";
                 qDebug()<< "||>--- _|!|_              ---< FATAL ERROR : >---               _|!|_ ---<||";
-                qDebug()<< "||>--- _|!|_        \"LC_SQL_files\" directory is missing !        _|!|_ ---<||";
+                qDebug()<< "||>--- _|!|_        \"LC_SQL_files\" directory is missing !       _|!|_ ---<||";
                 qDebug()<< "||>--- _|!|_     We can't create the database without this !    _|!|_ ---<||";
                 qDebug()<< "||                                                                        ||";
                 qDebug()<< "============================================================================";
